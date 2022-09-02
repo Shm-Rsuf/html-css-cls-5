@@ -1,0 +1,26 @@
+body {
+  background-color: teal;
+  color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2em;
+}
+
+ul {
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 350px;
+  padding: 50px;
+  margin: 100px auto;
+  border-radius: 10px;
+}
+
+ul li {
+  list-style: none;
+  background-color: rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+ul li:hover {
+  background-color: teal;
+}

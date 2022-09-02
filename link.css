@@ -1,0 +1,19 @@
+a:link,
+a:visited {
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #6528e0;
+  color: #ffffff;
+  padding: 8px 26px;
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-size: 0.8em;
+  border-radius: 3px;
+}
+a:hover {
+  background-color: #5300f8;
+}
+a:active {
+  outline: 2px solid #5300f8c0;
+}
